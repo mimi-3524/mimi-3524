@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi im doing this for school project otherwise i dont have a single idea about github have a great day
 
 <!--
 **mimi-3524/mimi-3524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
